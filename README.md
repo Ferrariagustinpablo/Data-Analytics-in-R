@@ -1,3 +1,3 @@
 # Data-Analytics-in-R
 
-Notebooks From Data Analytics in R Career Track from Datacamp.
+My Notebooks of useful codes and exercises from Data Analytics in R Career Track from Datacamp.
